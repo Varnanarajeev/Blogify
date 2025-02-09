@@ -1,7 +1,7 @@
 # Blogify
 AI Blog & Image Generator
 
-Overview
+#Overview
 
 This is a Streamlit-based web application that generates AI-written blogs and AI-generated images based on user input. The application utilizes the Hugging Face API to generate text using the Mistral-7B model and images using the Stable Diffusion model. This is totally experimental basis we just want to expore the AI side in this hackathon and learn about it
 
