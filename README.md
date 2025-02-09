@@ -47,21 +47,21 @@ HF_API_KEY = "your_hugging_face_api_key"
 
 # Usage
 
-Enter the blog topic in the input field.
+* Enter the blog topic in the input field.
 
-Select the target audience (Researchers, Data Scientists, General Audience).
+* Select the target audience (Researchers, Data Scientists, General Audience).
 
-Click on "Generate Blog" to get an AI-generated blog.
+* Click on "Generate Blog" to get an AI-generated blog.
 
-Click on "Generate Image" to generate an AI-based image for the blog.
+* Click on "Generate Image" to generate an AI-based image for the blog.
 
-API Endpoints Used
+* API Endpoints Used
 
-Text Generation: Mistral-7B-Instruct-v0.3 (mistralai/Mistral-7B-Instruct-v0.3)
+* Text Generation: Mistral-7B-Instruct-v0.3 (mistralai/Mistral-7B-Instruct-v0.3)
 
-Image Generation: Stable Diffusion v1.5 (runwayml/stable-diffusion-v1-5)
+* Image Generation: Stable Diffusion v1.5 (runwayml/stable-diffusion-v1-5)
 
-Developed by Varnana Rajeev and Arpitha Bhandary
+# Developed by Varnana Rajeev and Arpitha Bhandary
 
 
 
