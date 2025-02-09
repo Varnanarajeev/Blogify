@@ -1,4 +1,4 @@
-# Blogify
+# BLOGIFY
 AI Blog & Image Generator
 
 # Overview
