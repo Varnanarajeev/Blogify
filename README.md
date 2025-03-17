@@ -61,7 +61,7 @@ HF_API_KEY = "your_hugging_face_api_key"
 
 * Image Generation: Stable Diffusion v1.5 (runwayml/stable-diffusion-v1-5)
 
-Developed by Varnana Rajeev and Arpitha Bhandary
+Developed by Varnana Rajeev 
 
 
 
